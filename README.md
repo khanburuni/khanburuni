@@ -12,6 +12,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khanburuni&show_icons=true&locale=en&layout=compact" alt="khanburuni" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khanburunin&show_icons=true&locale=en" alt="khanburuni" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khanburuni&show_icons=true&locale=en" alt="khanburuni" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khanburuni&" alt="khanburuni" /></p>
