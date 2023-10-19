@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Turkiye</h3>
 <img aling= alt="reverse flash" width="900" src="https://github.com/khanburuni/khanburuni/assets/145426882/68fefe81-6188-489d-b74c-ae6f40136e23"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khanburunin&label=Profile%20views&color=0e75b6&style=flat" alt="khanburuni" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khanburuni&label=Profile%20views&color=0e75b6&style=flat" alt="khanburuni" /> </p>
 
 <p align="left">
 </p>
